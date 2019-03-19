@@ -5,7 +5,7 @@ python script for download tweets with specified hashtag in csv file
 
 First of all create twitter developer account from: https://developer.twitter.com/
 
-Verify your twitter devleloper account.
+Verify your twitter developer account.
 
 After account verification create your first app for collect comsumer_key, consumer_secret, access_token, access_token_secret
 
