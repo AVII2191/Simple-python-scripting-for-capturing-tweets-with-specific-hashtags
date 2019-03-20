@@ -1,4 +1,4 @@
-# Download tweets from python script in .csv file
+# Simple python scripting for capturing tweets with specific hashtags
 python script for download tweets with specified hashtag in csv file
 
 
